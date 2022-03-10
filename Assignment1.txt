@@ -1,0 +1,71 @@
+Q1. check given number is EVEN or ODD 
+
+step 1: Enter any number
+step 2:if the number is in the multiple of 2,4,6,8,10,.... then the given number is EVEN.
+step 3:if the number is in the multiple of 1,3,5,7,9,....then the given number is ODD.
+step 4: End of program 
+------------------------------------------------------------------------------------------------
+Q2 write a java prog to calculate the factorial of given number
+
+step 1:start
+step 2: enter a number to find factorial 
+step 3:read integer and assign it to variable 
+step 4: the value of the integer up to 1, multiply each digit and update the final value
+step 5: final value at the end of all the multiplication till 1 is the factorial
+step 6:End 
+---------------------------------------------------------------------------------------------------
+Q3 
+
+---------------------------------------------------------------------------------------------------
+Q4 swap two no without using third variable
+
+step 1: start
+step 2: enter x, y
+step 3: print  x, y
+step 4: x = x + y
+step 5: y= x - y
+step 6: x =x - y
+step 7: print x, y
+step 8: end
+--------------------------------------------------------------------------------------------------------
+Q5 how to check the given number is positive or negative in java 
+
+step 1: enter any number 
+step 2: if the given number is greater than "0" then it is a positive number. 
+step 3: or if the given number is less than "0" then its a negative number. 
+
+-------------------------------------------------------------------------------------------------------
+Q6 algorithm for whether the given number is Leaf yar or not 
+
+step 1: take integer variable year.
+step 2:assign a value to the variable.
+step 3:check if the year is divisible by 4 but not 100, DISPLAY "leap year"
+step 4:check if the year is divisible by 400, DISPLAY "leap year"
+step 5:otherwise, DISPLAY "not leap year"
+-------------------------------------------------------------------------------------------------------
+Q7 write a java algorithm to print  1 to 10 without using loop 
+
+step 1 enter class name 
+step 2  write entry point function 
+step 3  System.out.println(1);
+step 4  System.out.println(2);
+step 5  System.out.println(3);
+step 6  System.out.println(5);
+step 7  System.out.println(6);
+step 8  System.out.println(7);
+step 9  System.out.println(8);
+step 10 System.out.println(9);
+step 11 System.out.println(10);
+-------------------------------------------------------------------------------------------------------------
+Q8 write a java algorithm to write a digit of given number  
+
+step 1 start 
+step 2: put any number 
+step 3:use while loop and check num>0
+step 4:apply % on num and store it into digit variable 
+step 5:then apply / on num and loop continue till condition became false  
+step 6:print digit
+step 7:end 
+----------------------------------------------------------------------------------------------------------------
+Q9 write a algorithm to print all the factors of given number 
+
