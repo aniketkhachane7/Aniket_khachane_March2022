@@ -1,0 +1,14 @@
+	//7. Write a Java program that takes a number as input and prints its multiplication 
+	//table upto 10.
+
+	class q7{
+		final public static void main (String[] args)
+		{
+			int a=8;
+			
+			for(int n=1;n<=10;n++)
+			{
+				System.out.println(+a+ "*" +n+ "=" +a*n);
+			}
+	}
+	}
